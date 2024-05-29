@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<h3 align="center">Status do projeto: em andamento ⌛</h3>
+<h3 align="center">Status do projeto: concluído ✅</h3>
 <hr>
 
 <h3 align="center">Sobre o projeto:</h3>
