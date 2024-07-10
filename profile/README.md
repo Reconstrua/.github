@@ -38,7 +38,7 @@
 
 <h3 align="center">Links úteis:</h3>
 
-<p>•💻Acesse o deploy do front-end: <a href="https://reconstrua.onrender.com/register/volunteer">Front-end Reconstrua</a></p>
+<p>•💻Acesse o deploy do front-end: <a href="https://reconstrua.onrender.com">Front-end Reconstrua</a></p>
 <p>•🧑🏽‍💻Acesse o deploy da API: <a href="https://reconstrua-api.onrender.com/api/docs/#/">API Reconstrua</a></p>
 
 
